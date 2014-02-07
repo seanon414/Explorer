@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ Main\:\ allow\ the\ user\ to\ play\ games\ until\ (s)he\ decides\ to\ quit.\r\n
+comment1.params=
+comment1.target=void\ playGame()
+comment1.text=\r\n\ playGame\:\r\n\ Display\ instructions,\ update\ the\ world\ and\ show\ the\ world.\r\n\ Extension\:\ exception\ will\ be\ thrown\ to\ indicate\ that\ game\ is\ over...\r\n
+numComments=2

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=World()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ World\r\n
+comment1.params=
+comment1.target=void\ update()
+comment1.text=\r\n\ update\:\ update\ all\ components\ of\ this\ world.\r\n\ @param\ none\r\n\ @return\ none\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ toString\:\ \r\n\ @param\ none\r\n\ @return\ a\ String\ representation\ of\ this\ world.\r\n
+numComments=3

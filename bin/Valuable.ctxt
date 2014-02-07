@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Valuable()
+comment0.text=\r\n\ Constructors\ \r\n
+comment1.params=theLocation
+comment1.target=Valuable(Location)
+numComments=2

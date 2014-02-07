@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Wanderer()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Wanderer\r\n
+comment1.params=theLocation
+comment1.target=Wanderer(Location)
+comment2.params=isle
+comment2.target=void\ move(Island)
+comment2.text=\r\n\ move\:\r\n\ a\ wanderer\ moves\ by\ picking\ a\ direction\ randomly.\r\n
+numComments=3

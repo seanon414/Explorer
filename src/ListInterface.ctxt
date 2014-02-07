@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=boolean\ isEmpty()
+comment1.params=
+comment1.target=int\ size()
+comment2.params=index\ item
+comment2.target=void\ add(int,\ java.lang.Object)
+comment3.params=index
+comment3.target=java.lang.Object\ get(int)
+comment4.params=index
+comment4.target=void\ remove(int)
+comment5.params=
+comment5.target=void\ removeAll()
+numComments=6

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Cell()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Cell\r\n
+comment1.params=e
+comment1.target=Cell(Entity)
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment2.text=\r\n\ isEmpty\:\r\n\ @param\ none\r\n\ @return\ a\ boolean,\ true\ if\ this\ cell\ is\ empty,\ false\ otherwise\r\n
+comment3.params=e
+comment3.target=void\ setEntity(Entity)
+comment3.text=\r\n\ setEntity\:\r\n\ @param\ the\ entity\ to\ put\ in\ the\ cell\r\n
+comment4.params=
+comment4.target=Entity\ getEntity()
+comment4.text=\r\n\ getEntity\:\r\n\ @param\ none\r\n\ @return\ the\ entity\ in\ the\ cell,\ or\ null\ if\ the\ cell\ is\ empty\r\n
+comment5.params=
+comment5.target=void\ deleteEntity()
+comment5.text=\r\n\ delete\:\ delete\ the\ entity\ in\ this\ cell.\r\n\ @param\ none\r\n\ @return\ none\r\n
+numComments=6

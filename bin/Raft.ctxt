@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Raft()
+comment0.text=\r\n\ Constructors\ for\ objects\ of\ class\ Raft\r\n
+comment1.params=theLocation
+comment1.target=Raft(Location)
+numComments=2

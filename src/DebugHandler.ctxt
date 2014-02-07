@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=level
+comment0.target=DebugHandler(int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ DebugHandler\r\n
+comment1.params=message
+comment1.target=void\ print(java.lang.String)
+comment1.text=\r\n\ print\:\ \r\n\ @param\ a\ String,\ to\ print\ if\ debugLevel\ is\ 1,\ or\ to\ ignore\ otherwise.\r\n\ @return\ none\r\n
+numComments=2

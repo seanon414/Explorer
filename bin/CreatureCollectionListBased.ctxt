@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CreatureCollectionListBased()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ CreatureCollection\r\n
+comment1.params=c
+comment1.target=void\ add(Creature)
+comment1.text=\r\n\ add\:\ add\ the\ given\ creature\ to\ the\ array\ creatures.\r\n\ @param\ a\ Creature\r\n\ @return\ none\r\n
+comment2.params=
+comment2.target=boolean\ hasMoreCreatures()
+comment2.text=\r\n\ hasMoreCreatures\:\r\n\ @param\ none\r\n\ @return\ a\ boolean,\ true\ if\ there\ are\ more\ creatures\ in\ the\ collection,\ false\ otherwise\r\n
+comment3.params=
+comment3.target=Creature\ nextCreature()
+comment3.text=\r\n\ nextCreature\:\ used\ to\ iterate\ over\ the\ collection\ of\ creatures,\r\n\ i.e.\ return\ a\ different\ creature\ each\ time\ it\ is\ called,\ and\r\n\ if\ called\ numCreatures\ times,\ will\ return\ all\ creatures\ in\ the\ collection.\r\n\ \r\n\ @param\ none\r\n\ @return\ a\ Creature,\ the\ next\ one\ in\ the\ collection,\ or\ null\ if\ there\ are\ no\ creatures\ or\ none\ left.\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ toString\:\r\n\ @param\ none\r\n\ @return\ a\ String,\ including\ all\ creatures\ and\ their\ locations.\r\n
+comment5.params=destination
+comment5.target=void\ remove(Location)
+comment5.text=\r\n\ remove\:\ removes\ the\ creature\ a\ destination\ from\ the\ list.\r\n\ @param\ destination\ of\ the\ explorer\r\n\ @return\ none\r\n
+numComments=6

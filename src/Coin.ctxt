@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Coin()
+comment0.text=\r\n\ Constructors\ for\ objects\ of\ class\ Coin\r\n
+comment1.params=theLocation
+comment1.target=Coin(Location)
+numComments=2

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Chaser()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Wanderer\r\n
+comment1.params=theLocation
+comment1.target=Chaser(Location)
+comment2.params=isle
+comment2.target=void\ move(Island)
+comment2.text=\r\n\ move\:\r\n\ a\ chaser\ moves\ by\ picking\ a\ direction\ based\ on\ where\ the\ explorer\ is.\r\n
+comment3.params=isle\ destination
+comment3.target=boolean\ checkAttack(Island,\ Location)
+comment3.text=\r\n\ chaserAttack\:\ check\ to\ see\ if\ the\ space\ a\ chaser\ is\ moving\ to\ is\ an\ Explorer.\r\n
+comment4.params=isle\ destination
+comment4.target=void\ chaserAttack(Island,\ Location)
+comment4.text=\r\n\ chaserAttack\:\ will\ \r\n\ \r\n
+comment5.params=
+comment5.target=int\ combat()
+comment5.text=\r\n\ combat\:\ computs\ the\ amount\ of\ health\ lost\ from\ combat\ with\ the\ creature\r\n\ @param\ none\r\n\ @return\ none\r\n
+numComments=6

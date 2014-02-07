@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ListArrayBased()
+comment1.params=
+comment1.target=boolean\ isEmpty()
+comment2.params=
+comment2.target=int\ size()
+comment3.params=
+comment3.target=void\ removeAll()
+comment4.params=index\ item
+comment4.target=void\ add(int,\ java.lang.Object)
+comment5.params=index
+comment5.target=java.lang.Object\ get(int)
+comment6.params=index
+comment6.target=void\ remove(int)
+comment7.params=position
+comment7.target=int\ translate(int)
+numComments=8

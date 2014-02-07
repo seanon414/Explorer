@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Enemy()
+comment0.text=\r\n\ Constructors\ \r\n
+comment1.params=theLocation
+comment1.target=Enemy(Location)
+comment2.params=isle
+comment2.target=void\ move(Island)
+comment2.text=\r\n\ move\:\r\n\ Each\ kind\ of\ creature\ moves\ in\ a\ different\ way,\r\n\ e.g.\ The\ explorer\ moves\ according\ to\ keyboard\ input,\r\n\ a\ wanderer\ moves\ by\ picking\ a\ direction\ randomly,\r\n\ a\ chaser\ moves\ by\ picking\ a\ direction\ based\ on\ where\ the\ explorer\ is.\r\n
+numComments=3
